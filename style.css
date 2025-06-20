@@ -1,0 +1,23 @@
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0%;
+}
+.box {
+    height: 220px;
+    width: 300px;
+    color: white;
+    border: 1px solid white;
+    backdrop-filter: blur(4px);
+    text-align: center;
+    border-radius: 10px;
+    margin: 16% 0 0 40%;
+}
+button{
+    padding: 10px;
+    background-color: white;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 2px 0 2px 0;
+    margin-right: 5px;
+}
